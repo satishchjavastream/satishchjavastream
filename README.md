@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satish C.
 - 👀 I’m interested in Software engineering.
 - 🌱 I’m currently leaving in the USA.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a full-time job in the USA.
 - 📫 How to reach me at satishchjavastream@gmail.com.
 
 <!---
