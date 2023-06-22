@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SATISH
-- 👀 I’m interested in IT problems and solutions...
-- 🌱 I’m currently learning USA...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me satishchjavastream@gmail.com...
+- 👋 Hi, I’m @Satish C.
+- 👀 I’m interested in Software engineering.
+- 🌱 I’m currently leaving in the USA.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me at satishchjavastream@gmail.com.
 
 <!---
 satishchjavastream/satishchjavastream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
